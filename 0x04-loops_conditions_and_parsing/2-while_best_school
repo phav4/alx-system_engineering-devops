@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
-#Creating a script that uses a while loop
-x=1
-
+#This script prints a string 10 times using a while loop
+x=0
 while [ $x -lt 10 ]
 do
 	echo "Best School"
